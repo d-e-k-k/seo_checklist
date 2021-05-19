@@ -16,7 +16,7 @@
     <p>A <a href="https://yoast.com/difference-between-keyword-and-keyphrase/">keyword</a> is a word that describes the content of your page or post best. It’s the search term that you want to rank for with a certain page. So when people search for that keyword in Google or other search engines, they should find that page on your website.
     </p>
     <p>
-    E.g. Your website is about dogs, and you’ve just written a blog post all about puppies. The keyword that describes the content of that post best is probably: “puppy”. -exerpts from yoast.com
+    E.g. Your website is about dogs, and you’ve just written a blog post all about puppies. The keyword that describes the content of that post best is probably: “puppy”. -exerts from yoast.com
     </p>
 <h3>Keyphrase Selection</h3>
     <p>
