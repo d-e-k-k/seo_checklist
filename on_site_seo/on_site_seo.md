@@ -303,7 +303,7 @@ Search engine crawlers read the alt text value and screen readers use it to ‘d
 <br>
 <p>It is recommend to have external links to trusted site. So if you can link to wikipidia or a research study related to the the content it helps google know our content it quality and relying on trustworthy sources.</p>
 
-<p>Good content often requires good sources. Naturally if you are realaying on trusted sources to support your content claims you would be able to provide them as reference. This is the though process behind having external links.</p>
+<p>Good content often requires good sources. Naturally if you are relaying on trusted sources to support your content claims you would be able to provide them as reference. This is the though process behind having external links.</p>
 </details>
 
 
